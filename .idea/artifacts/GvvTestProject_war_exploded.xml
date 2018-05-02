@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="GvvTestProject:war exploded">
+    <output-path>$PROJECT_DIR$/../GvvTestProject/out/artifacts/GvvTestProject_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="GvvTestProject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="GvvTestProject" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
